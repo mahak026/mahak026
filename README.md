@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahak Varshney</h1>
 <h3 align="center">A passionate frontend developer from India who's currently pursuing Bachelors in Computer Applications</h3>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47js8xzzuq33338vysnrh6usywlr1wormyin1a1zgp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahak026&label=Profile%20views&color=0e75b6&style=flat" alt="mahak026" /> </p>
 
 <h3 align="left">Connect with me:</h3>
